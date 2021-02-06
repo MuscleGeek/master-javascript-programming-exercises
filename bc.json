@@ -369,7 +369,7 @@
         {
             "slug": "80-getAverageOfElementsAtProperty",
             "title": "80-getAverageOfElementsAtProperty",
-            "done": false,
+            "done": true,
             "path": "exercises/80-getAverageOfElementsAtProperty",
             "translations": [
                 "es",
